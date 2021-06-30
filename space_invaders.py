@@ -2,7 +2,7 @@
 # but I have to write this time around.. this is the most complex game I've written since I started programming.
 # alright, let's get started
 
-# space invaders game by me (Egbebi  adedamola) written purely in python and one of it's module pygame
+# space invaders game by me written purely in python and one of it's module pygame
 import pygame
 import random
 pygame.init()
